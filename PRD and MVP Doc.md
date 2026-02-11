@@ -1,6 +1,3 @@
-# investment.ai
-
-
 Investment Monitor AI Agent
 
 Product Requirements Document (PRD) + MVP Architecture
